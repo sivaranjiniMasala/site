@@ -302,7 +302,7 @@ const TrackOrderPage = () => {
             <input
               type="text"
               id="orderId"
-              placeholder="e.g., ORD001"
+              placeholder="e.g., ORDER-20250716232851"
               value={orderId}
               onChange={(e) => setOrderId(e.target.value)}
               className={error && !orderId.trim() ? 'error' : ''}
@@ -314,7 +314,7 @@ const TrackOrderPage = () => {
             <input
               type="tel"
               id="phoneNumber"
-              placeholder="e.g., +919876543210"
+              placeholder="e.g., 9876543210"
               value={phoneNumber}
               onChange={(e) => setPhoneNumber(e.target.value)}
               className={error && !phoneNumber.trim() ? 'error' : ''}

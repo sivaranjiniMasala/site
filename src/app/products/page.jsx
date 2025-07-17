@@ -29,7 +29,7 @@ const Products = [
   {
     id: 4,
     name: "Sabja Masala",
-    image: "/images/Sabja_Masala.png",
+    image: "//images//Sabja_masala.png",
     price: "Rs.79.70",
     weight: "100gm"
   },
