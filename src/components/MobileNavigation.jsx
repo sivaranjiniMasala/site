@@ -109,9 +109,9 @@ const MobileNavigation = () => {
                 </a>
               </li>
               <li>
-                <a href="#about" onClick={closeMobileMenu}>
+                <a href="/trackOrder" onClick={closeMobileMenu}>
                   <i className="fa-solid fa-info-circle"></i>
-                  About
+                  TrackOrder
                 </a>
               </li>
               <li>
