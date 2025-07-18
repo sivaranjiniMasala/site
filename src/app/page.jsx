@@ -291,7 +291,9 @@ adds magic to every dish.</p>
                 
                 <div className="contact-details">
                   <h3>CONTACT INFORMATION</h3>
-                  <p>+91 89xxxxxxxx</p>
+                  
+            <p>+91 8610435965</p>
+            <p>sivaranjinifoods@gmail.com</p>
                 </div>
               </div>
               
